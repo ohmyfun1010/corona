@@ -58,37 +58,37 @@
 
 <img src="https://user-images.githubusercontent.com/62956948/90328356-b9b71400-dfd6-11ea-95b1-53365396c2cb.png" width="1000">
 
-<br>
+<br><br>
 
 #### **관리자 로그인 팝업**
 
 <img src="https://user-images.githubusercontent.com/62956948/90328476-9ccf1080-dfd7-11ea-9eb1-4be825164fc9.PNG" width="1000">
 
-<br>
+<br><br>
 
 #### **관리자 새 진료소 등록**
 
 <img src="https://user-images.githubusercontent.com/62956948/90328483-a0629780-dfd7-11ea-9355-4d1f28da0e1b.PNG" width="1000">
 
-<br>
+<br><br>
 
 #### **관리자 진료소 수정,삭제**
 
 <img src="https://user-images.githubusercontent.com/62956948/90328486-a3f61e80-dfd7-11ea-8592-b0974df271d1.png" width="1000">
 
-<br>
+<br><br>
 
-#### **확진자 동선**
+#### **지역별 선별진료소 검색 화면**
 
-<img src="images/search2.png" width="800">
+<img src="https://user-images.githubusercontent.com/62956948/90328533-03542e80-dfd8-11ea-839e-30736c107f1c.png" width="1000">
 
-<br>
+<br><br>
 
-#### **지역 보건소 검색**
+#### **검색 결과**
 
-<img src="images/main.png" width="800">
+<img src="https://user-images.githubusercontent.com/62956948/90328537-094a0f80-dfd8-11ea-98df-6758d7abd121.png" width="1000">
 
-<br>
+<br><br>
 
 #### **푸시 알림**
 
