@@ -55,9 +55,9 @@
 
 ### 화면 구성
 
-#### **관련 기사 검색**
+#### **메인 화면**
 
-<img src="images/main.png" width="800">
+<img src="https://user-images.githubusercontent.com/62956948/90328356-b9b71400-dfd6-11ea-95b1-53365396c2cb.png" width="800">
 
 <br>
 
@@ -69,7 +69,7 @@
 
 #### **예방 및 대처법**
 
-<img src="images/write.png" width="800">
+<img src="https://user-images.githubusercontent.com/62956948/90328351-b3289c80-dfd6-11ea-9724-de7410ae464e.png" width="800">
 
 <br>
 
