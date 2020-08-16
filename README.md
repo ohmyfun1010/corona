@@ -1,5 +1,4 @@
 
-# hospital's web site
 
 ## 개요
 
