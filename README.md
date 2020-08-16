@@ -86,7 +86,7 @@
 
 #### **검색 결과**
 
-<img src="https://user-images.githubusercontent.com/62956948/90328591-752c7800-dfd8-11ea-8c15-bf0436df366d.png" width="1000">
+<img src="https://user-images.githubusercontent.com/62956948/90328652-203d3180-dfd9-11ea-8bf6-81f06bcca386.png" width="1000">
 
 <br><br>
 
