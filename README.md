@@ -56,25 +56,25 @@
 
 #### **메인 화면**
 
-<img src="https://user-images.githubusercontent.com/62956948/90328356-b9b71400-dfd6-11ea-95b1-53365396c2cb.png" width="800">
+<img src="https://user-images.githubusercontent.com/62956948/90328356-b9b71400-dfd6-11ea-95b1-53365396c2cb.png" width="1000">
 
 <br>
 
 #### **관리자 로그인 팝업**
 
-<img src="https://user-images.githubusercontent.com/62956948/90328476-9ccf1080-dfd7-11ea-9eb1-4be825164fc9.PNG" width="800">
+<img src="https://user-images.githubusercontent.com/62956948/90328476-9ccf1080-dfd7-11ea-9eb1-4be825164fc9.PNG" width="1000">
 
 <br>
 
 #### **관리자 새 진료소 등록**
 
-<img src="https://user-images.githubusercontent.com/62956948/90328483-a0629780-dfd7-11ea-9355-4d1f28da0e1b.PNG">
+<img src="https://user-images.githubusercontent.com/62956948/90328483-a0629780-dfd7-11ea-9355-4d1f28da0e1b.PNG" width="1000">
 
 <br>
 
 #### **관리자 진료소 수정,삭제**
 
-<img src="https://user-images.githubusercontent.com/62956948/90328486-a3f61e80-dfd7-11ea-8592-b0974df271d1.png" width="800">
+<img src="https://user-images.githubusercontent.com/62956948/90328486-a3f61e80-dfd7-11ea-8592-b0974df271d1.png" width="1000">
 
 <br>
 
