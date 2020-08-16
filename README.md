@@ -3,7 +3,7 @@
 
 ## 개요
 
-![CoronaBusan](https://user-images.githubusercontent.com/57826388/82758378-347df200-9e21-11ea-8340-e52c3510ce44.png)
+<img src="images/main.png" width="800">
 
 본 프로젝트는 부산광역시 시민들을 위한 부산시 코로나19 알림 애플리케이션입니다.  
 부산광역시 시민들이 누구나 쉽고 빠르게 코로나19 관련 소식을 접할 수 있고, 대처할 수 있도록 하는 목적으로 개발을 진행하게 되었습니다.  
@@ -89,47 +89,46 @@
 
 #### **관련 기사 검색**
 
-![image](https://user-images.githubusercontent.com/57826388/83366695-bf478980-a3eb-11ea-8c5c-d053e864a0d2.png)
+<img src="images/main.png" width="800">
 
 <br>
 
 #### **현황판**
 
-![image](https://user-images.githubusercontent.com/57826388/83366697-c2db1080-a3eb-11ea-8bb6-d124c6c6683e.png)
+<img src="images/main.png" width="800">
 
 <br>
 
 #### **예방 및 대처법**
 
-![image](https://user-images.githubusercontent.com/57826388/83366700-c7072e00-a3eb-11ea-9359-94a7cf022046.png)
+<img src="images/main.png" width="800">
 
 <br>
 
 #### **코로나 마스크 맵**
 
-![image](https://user-images.githubusercontent.com/57826388/83366710-d0909600-a3eb-11ea-89cc-2365a653979e.png)
+<img src="images/main.png" width="800">
 
-![image](https://user-images.githubusercontent.com/57826388/83366702-ca021e80-a3eb-11ea-8b08-61fe72294513.png)
+<img src="images/main.png" width="800">
 
 <br>
 
 #### **확진자 동선**
 
-![image](https://user-images.githubusercontent.com/57826388/83366717-d4241d00-a3eb-11ea-8384-c30b5b4db6c1.png)
+<img src="images/main.png" width="800">
 
 <br>
 
 #### **지역 보건소 검색**
 
-![image](https://user-images.githubusercontent.com/57826388/83366722-d71f0d80-a3eb-11ea-8b60-29075b0f588e.png)
+<img src="images/main.png" width="800">
 
 <br>
 
 #### **푸시 알림**
 
-![image](https://user-images.githubusercontent.com/57826388/83366725-da19fe00-a3eb-11ea-813e-3e69b240cdbc.png)
-
-![image](https://user-images.githubusercontent.com/57826388/83366728-dd14ee80-a3eb-11ea-8a1a-bf2eac5a1089.png)
+<img src="images/main.png" width="800">
+<img src="images/main.png" width="800">
 
 
 
