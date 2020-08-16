@@ -3,7 +3,7 @@
 
 ## 개요
 
-<img src="images/main.png" width="800">
+<img src="images/" width="800">
 
 본 프로젝트는 전국의 선별진료소의 위치와 정보를 알려주는 웹 사이트 입니다.
 개발 목적은 대한민국 시민들이 코로나 이외의 질병으로 인해 진료소를 찾아야 할 때 코로나 환자들이 치료중인 병원이 아닌 안전한 선별진료소의 위치와 정보를 알려주는 웹 사이트입니다.
@@ -63,27 +63,27 @@
 
 #### **현황판**
 
-<img src="images/main.png" width="800">
+<img src="images/login.png" width="800">
 
 <br>
 
 #### **예방 및 대처법**
 
-<img src="images/main.png" width="800">
+<img src="images/write.png" width="800">
 
 <br>
 
 #### **코로나 마스크 맵**
 
-<img src="images/main.png" width="800">
+<img src="images/crud.png" width="800">
 
-<img src="images/main.png" width="800">
+<img src="images/search.png" width="800">
 
 <br>
 
 #### **확진자 동선**
 
-<img src="images/main.png" width="800">
+<img src="images/search2.png" width="800">
 
 <br>
 
