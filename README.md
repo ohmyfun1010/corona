@@ -99,7 +99,7 @@
 
 #### **검색 결과**
 
-<img src="https://user-images.githubusercontent.com/62956948/90328652-203d3180-dfd9-11ea-8bf6-81f06bcca386.png" width="1000">
+<img src="https://user-images.githubusercontent.com/62956948/90329110-c50d3e00-dfdc-11ea-97c8-114baa3ce550.jpg" width="1000">
 
 <br><br>
 
