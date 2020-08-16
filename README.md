@@ -90,10 +90,7 @@
 
 <br><br>
 
-#### **푸시 알림**
 
-<img src="images/main.png" width="800">
-<img src="images/main.png" width="800">
 
 
 
