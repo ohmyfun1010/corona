@@ -10,12 +10,23 @@
 
 <br>
 
-- 개발 환경: Android Studio 3.6
-- 개발 언어: Kotlin, XML
-- 기타 환경: Git
-- 외부 자원: Google Map API, Open Api
-- 관련 기술: Mvvm, LiveData, ViewModel, Retrofit, RestApi, RxJava, Databinding, Jsoup, FCM
+### 구현 기능
 
+     - 회원가입
+     - 로그인
+     - CRUD
+     - 페이징 
+     
+
+<br>
+
+### 개발 도구
+
+     - Jdk : 8 버전
+     - Spring framework : spring 5
+     - 웹서버 : Apache
+     - WAS : Tomcat 9.0
+     - Maven : 3.2.1
 <br>
 
 본 프로그램은 코로나19 관련 기사, 현황판, 대처법, 지도 서비스로 크게 나뉘어집니다.
