@@ -85,13 +85,13 @@
 
 <br><br>
 
-#### **관리자 새 진료소 등록**
+#### **관리자전용(새 진료소 등록)**
 
 <img src="https://user-images.githubusercontent.com/62956948/90328483-a0629780-dfd7-11ea-9355-4d1f28da0e1b.PNG" width="1300">
 
 <br><br>
 
-#### **관리자 진료소 수정,삭제**
+#### **관리자전용(진료소 수정,삭제)**
 
 <img src="https://user-images.githubusercontent.com/62956948/90328486-a3f61e80-dfd7-11ea-8592-b0974df271d1.png" width="1300">
 
